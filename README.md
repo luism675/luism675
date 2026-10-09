@@ -64,6 +64,14 @@ ERP y plataforma de **Field Service Management (FSM)** B2B SaaS multi-tenant de 
 Sistema multi-tenant de **gestión de fumigación y control de plagas**. Administra clientes, sedes, órdenes de servicio, personal técnico y facturación, con datos aislados y seguros por organización.
 `TypeScript` `Multi-tenant` `Facturación`
 
+### [Givie](https://github.com/luism675/givie)
+Visualizador interactivo de grafos Git (DAG) y playground educativo, construido con Angular, Signals y arquitectura hexagonal.
+`TypeScript` `Angular` `Hexagonal Architecture`
+
+### [Typeout](https://github.com/luism675/Typeout)
+Juego de duelos de mecanografía estilo Viejo Oeste con modo de defensa contra hordas, hecho con Next.js, Tailwind CSS y Zustand.
+`TypeScript` `Next.js` `Zustand`
+
 ---
 
 ## 📌 Lo que busco
